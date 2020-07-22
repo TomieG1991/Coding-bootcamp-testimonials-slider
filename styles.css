@@ -79,6 +79,7 @@ body {
 
 .image-container .image-nav-container img {
 	padding:10px 10px;
+	cursor: pointer;
 	
 }
 
